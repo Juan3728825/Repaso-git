@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deposada74/repaso.git"
+    "url": "git+https://github.com/Juan3728825/Repaso-git.git"
   },
   "author": "JUAN",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deposada74/repaso/issues"
+    "url": "https://github.com/Juan3728825/Repaso-git/issues"
   },
-  "homepage": "https://github.com/deposada74/repaso#readme",
+  "homepage": "https://github.com/Juan3728825/Repaso-git#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "cors": "^2.8.5",
